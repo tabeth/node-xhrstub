@@ -1,19 +1,19 @@
 {
-  "name": "xmlhttprequest",
-  "description": "XMLHttpRequest for Node",
-  "version": "1.8.0",
+  "name": "node-xhrstub",
+  "description": "XMLHttpRequest stub for Node",
+  "version": "1.0.0",
   "author": {
-    "name": "Dan DeFelippi",
-    "url": "http://driverdan.com"
+    "name": "Tabeth Nkangoh",
+    "url": "http://tabeth.com"
   },
-  "keywords": ["xhr", "ajax"],
+  "keywords": ["xhr", "nodejs", "node", "ajax"],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/driverdan/node-XMLHttpRequest.git"
+    "url": "git://github.com/tabeth/nodexhr"
   },
   "browser": "./lib/browser.js",
-  "bugs": "http://github.com/driverdan/node-XMLHttpRequest/issues",
+  "bugs": "http://github.com/driverdan/nodexhr/issues",
   "engines": {
     "node": ">=0.4.0"
   },
