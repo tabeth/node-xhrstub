@@ -27,6 +27,7 @@ MIT license. See LICENSE for full details.
 * All spec methods (open, send, abort, getRequestHeader,
   getAllRequestHeaders, event methods)
 * Requests to all domains
+* XML parsing
 
 ## Acknowledgements ##
 
